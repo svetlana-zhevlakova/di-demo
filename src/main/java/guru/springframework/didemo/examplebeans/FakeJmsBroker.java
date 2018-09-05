@@ -1,6 +1,6 @@
 package guru.springframework.didemo.examplebeans;
 
-public class FakeDataSource {
+public class FakeJmsBroker {
 
     private String username;
     private String password;
